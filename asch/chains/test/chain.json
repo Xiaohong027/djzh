@@ -1,0 +1,10 @@
+{
+  "name": "test",
+  "link": "https://test.zip",
+  "desc": "test",
+  "icon": "https://test.jpg",
+  "delegates": [
+    ""
+  ],
+  "unlockDelegates": 3
+}

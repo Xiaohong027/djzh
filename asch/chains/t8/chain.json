@@ -1,0 +1,14 @@
+{
+  "name": "t8",
+  "link": "http://t8.zip",
+  "desc": "t8",
+  "icon": "http://t8.jpg",
+  "delegates": [
+    "8cb3c2934567d2989b7a805eb4c4a6aca3c3f8a05a208bbb5dfa2bc8b26a8b4e",
+    "18ce9e094eda8b96af2e91e9d9e6d40be36267b599b19deedf3cad31190ee2e6",
+    "3572acea4d8c8ab6eb6aa9f6d95159112bfb8e29e067932dceec83c12a1cf4dd",
+    "dcd8461c1c8ef7fcef4a53a196a65fc024157bb7a59637a3037b15dd30260164",
+    "05d917a2eb4095c0e2440852e3c7508f53a046cc1734190e445156001ac5a13a"
+  ],
+  "unlockDelegates": 3
+}
